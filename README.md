@@ -1,3 +1,3 @@
 portfolio
 
-simple project HTML-CSS-JS
+simple personal project HTML-CSS-JS
